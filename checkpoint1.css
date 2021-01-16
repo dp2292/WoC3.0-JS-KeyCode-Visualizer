@@ -1,0 +1,23 @@
+body {
+  background-color: lightgray;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+ th {
+   text-align: center;
+   color: black;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   padding: 12px;
+   border-bottom: 1px solid gray;
+   
+  }
+.second  
+{
+  text-align:right;
+}
+
+.colouroftitle{
+  background-color: lightblue;
+}
