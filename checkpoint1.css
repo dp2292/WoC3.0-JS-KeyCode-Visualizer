@@ -5,7 +5,7 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
- th {
+ th,tbody,td{
    text-align: center;
    color: black;
    font-family:Verdana, Geneva, Tahoma, sans-serif;
@@ -13,7 +13,11 @@ body {
    border-bottom: 1px solid gray;
    
   }
-.second  
+  
+  th{
+  background-color:lightblue;
+  }
+  .second  
 {
   text-align:right;
 }
